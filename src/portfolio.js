@@ -419,9 +419,7 @@ const experience = {
           logo_path: "allsoft.png",
           duration: "JUN 2022 - JUL 2022",
           location: "Punjab, India",
-          description: `Optimized the performance of an e-commerce website with 5,000 daily users by reducing page load time by 35% with the help of async-loaded JavaScript and building a backend API in
-          Node.js, resulted in increased sales of 3.4X.Created a $5000 E-Learning platform front end in Angular and Metronic 8 themes, reducing development time by 33% and improving customer satisfaction by 75%. Debugged existing code and handling backend maintenance
-          tasks, including the creation of APIs, integration with payment gateways, and connecting servers for proper functioning.
+          description: `I acquired practical experience in training supervised and unsupervised machine learning models, such as linear regression, classification, and decision trees. During my work on machine learning projects, including BigMart sales forecasting and object detection, I also became familiar with data preprocessing techniques like data cleaning, feature scaling, and feature engineering.
           `,
           color: "#0071C5",
         },

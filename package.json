@@ -2,7 +2,7 @@
   "private": true,
   "name": "personalportfolio",
   "version": "1.0.0",
-  "homepage": "http://thedeveloperyug.github.io/Portfolio",
+  "homepage": "http://thedeveloperyug.github.io/portfolio",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
