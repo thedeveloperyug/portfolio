@@ -24,7 +24,7 @@ jobs:
           node-version: 22
           cache: npm
       - name: Install dependencies
-        run: npm install --legacy-peer-deps
+        run: npm install
       - name: Build portfolio
         run: npm run build
       - name: Publish clean GitHub Pages build
