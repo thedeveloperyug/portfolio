@@ -34,7 +34,7 @@ const experiences = [
 const skills = {
   "Programming": ["C", "Modern C++17", "Python", "Data Structures & Algorithms"],
   "Automotive & Systems": ["QNX", "Linux", "IPC", "CAN", "UDS", "GDB", "Valgrind", "Software Design"],
-  "AI / Developer Intelligence": ["AI/ML", "LangChain", "Ollama", "Vector DB", "RAG", "Claude", "GitHub Copilot"],
+  "AI / Developer Intelligence": ["AI/ML", "NIP", "LangChain", "Ollama", "Vector DB", "RAG", "Claude", "GitHub Copilot"],
   "Build & Engineering": ["Zuul", "Git", "Bazel", "GTest", "Docker", "CMake", "SQL", "AWS"],
   "Web & Application": ["Django", "Web Development"]
 };
@@ -50,8 +50,8 @@ const projects = [
   {
     number: "01",
     name: "NEYTRA OS",
-    type: "Independent · AI-native computing",
-    description: "An independent AI-native operating system concept exploring intent-driven computing, intelligent automation and a new interaction layer between people, software and machines.",
+    type: "Independent · AI-native computing · NIP",
+    description: "An independent AI-native operating system concept with NIP (NEYTRA Intelligence Platform), exploring intent-driven computing, intelligent automation and a new interaction layer between people, software and machines.",
     stack: ["AI Systems", "Operating Systems", "Automation", "C++", "Python"],
     repo: "https://github.com/thedeveloperyug/Neytra_OS",
     live: "https://thedeveloperyug.github.io/neytra-os-website/",
