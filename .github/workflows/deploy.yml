@@ -21,10 +21,10 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: npm
       - name: Install dependencies
-        run: npm install
+        run: npm install --legacy-peer-deps
       - name: Build portfolio
         run: npm run build
       - name: Publish clean GitHub Pages build
